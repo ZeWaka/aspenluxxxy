@@ -1,4 +1,4 @@
-![](letsgo.gif)
+![](https://github.com/luxxxxy/luxxxxy/raw/master/letsgo.gif)
 
 **Discord:** aspen#0042  
 **Twitter:** [@luxx4x](https://twitter.com/luxx4x)  
