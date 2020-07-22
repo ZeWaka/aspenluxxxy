@@ -8,6 +8,11 @@
 
 📊 **This week's coding!**
 <!--START_SECTION:waka-->
+```text
+Week #30 : July 20 - 25
+
+
+```
 <!--END_SECTION:waka-->
 
 -------
