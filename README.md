@@ -8,8 +8,6 @@
  
 <img align="right" src="https://raw.githubusercontent.com/luxxxxy/luxxxxy/master/crab.jpg" width="256px" height="247px" />  
 
--------
-
 ## 📫 How to reach me!
 I'm always willing to talk, as long as you're nice :D
 
@@ -19,8 +17,6 @@ I'm always willing to talk, as long as you're nice :D
 **Reddit:** [/u/luxx4x](https://reddit.com/user/luxx4x/)  
 **Keybase:** [aspen_luxxxy](https://keybase.io/aspen_luxxxy)  
 **Cydia Repo:** https://repo.luxx.tech (use Zebra, not Cydia)
-
--------
 
 ## 📊 **This week's coding!**
 <!--START_SECTION:waka-->
