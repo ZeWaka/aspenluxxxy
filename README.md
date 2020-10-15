@@ -20,9 +20,9 @@ I'm always willing to talk, as long as you're nice :D
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspenluxxxy&layout=compact&theme=dracula&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=aspen&layout=compact&theme=dracula&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aspenluxxxy&layout=compact&theme=dracula&show_icons=true" />
 </a>
